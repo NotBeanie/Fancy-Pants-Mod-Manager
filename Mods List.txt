@@ -1,0 +1,121 @@
+FANCY MOD MANAGER BUILD 11 PRO
+
+PLAYER
+Invincible
+Friendly
+Infinite Lives
+Infinite Squiggles
+No Knockback
+No Pit Death
+No Squish
+Max Power
+Auto Heal
+Auto Ink
+Auto 9999 Squiggles
+Heal Now
+Refill Ink
+Give 9999 Squiggles
+
+MOVEMENT
+Fly
+Noclip
+Infinite Jumps
+Fly Boost
+Fly Precision
+Hold Slow Motion
+Hold Fast Motion
+Speed 0.25x through 5.00x
+Jump 0.25x through 5.00x
+Save Position
+Teleport Back
+Auto Save Position
+Random Speed
+Cycle Speed
+Pulse Speed
+Random Jump
+Cycle Jump
+Pulse Jump
+
+COMBAT
+Infinite Ammo
+One Hit KO
+All Tools
+All Pencil Moves
+Strength 0.25x through 5.00x
+Random Power
+Cycle Power
+Pulse Power
+Quick hotkey toggles
+
+WORLD
+Freeze Enemies
+No Screen Shake
+Game Speed 0.25x through 5.00x
+Smooth Speed
+Random Time
+Cycle Time
+Pulse Time
+Summon Enemy dropdown
+
+SUMMON TYPES
+Baddie1
+Spider
+Bat
+Bird
+Mouse
+Ninja
+InkFly
+InkBall
+InkFloat
+SnailShell
+Volleyball
+Bowling Ball
+
+UTILITY
+Unlock Hats and Pants
+Unlock Achievements
+Auto Unlock Cosmetics
+Outfit Lock
+Heal hotkey
+Ink hotkey
+Save Position hotkey
+Teleport hotkey
+9999 Squiggles hotkey
+Reset Gameplay
+Restore Original
+
+COSMETIC
+Rainbow Hat
+Slow Rainbow
+Fast Rainbow
+Cycle Hat
+Cycle Pants
+Cycle Pattern
+Cycle Pattern Color
+Random Outfit
+Random Hat
+Random Pants
+Random Pattern
+Random Pattern Color
+Random Hat Tint
+Custom art system remains available but is off by default for stability
+
+DISPLAY
+Smooth Game Speed rendering
+FPS 30
+FPS 60
+FPS 75
+FPS 90
+FPS 120
+FPS 144
+FPS 165
+FPS 240
+FPS 360
+FPS 500
+FPS 1000
+Random FPS
+Cycle FPS
+Pulse FPS
+
+SEARCH
+The runtime menu search filters every registered control by name, description, and category.

@@ -1,0 +1,12 @@
+BUILD 11 CHANGES
+
+1. New compact dark multicolumn runtime UI based on the layout style shown in the provided Mega Hack reference image.
+2. Global mod search at the top of the runtime panel.
+3. Noclip collision bypass now continues through the normal camera tail instead of returning before camera work.
+4. Freeze Enemies expanded to enemy AI, movement checks, and after move processing.
+5. Added repeatable Summon Enemy selector and Spawn button.
+6. Added twelve summonable enemy types.
+7. Added fifteen new dynamic individual mods for speed, jump, power, game time, and FPS.
+8. Exact movement, jump, power, time, and FPS controls remain individually searchable.
+9. Dynamic variants in the same family are mutually exclusive so they do not fight over the same value.
+10. Kept the crash safe save loading core and excluded the old TPS and interpolation hooks.
